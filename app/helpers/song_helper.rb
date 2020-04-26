@@ -1,2 +1,2 @@
-module SongHelper
+module SongsHelper
 end
